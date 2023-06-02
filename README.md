@@ -1,2 +1,3 @@
-# FantaC-Traval-Handbook
+# FantaC Traval Handbook
 PKU程序设计实习Qt大作业
+作者：sph/fy/jy
