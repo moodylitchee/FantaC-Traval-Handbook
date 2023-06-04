@@ -1,0 +1,6 @@
+ClientModule.pro
+define.h
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
